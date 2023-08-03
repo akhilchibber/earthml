@@ -1,4 +1,5 @@
 # EarthML - Geodata to Geohash
+![earthml Logo](https://github.com/akhilchibber/earthml/blob/main/earthml_logo.png?raw=true)
 
 EarthML is a Python library designed to convert geospatial datasets into a single geohash representing the smallest possible area that covers the entire dataset. It supports various formats, including `.shp`, `.geojson`, `.tif`, `.las`, `.png`, `.jpg`, and `.jpeg`.
 
