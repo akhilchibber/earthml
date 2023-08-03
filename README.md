@@ -1,5 +1,5 @@
 # EarthML - Geodata to Geohash
-<p align="center">
+<p align="left">
   <img src="https://github.com/akhilchibber/earthml/blob/main/earthml_logo.png?raw=true" width="200" alt="earthml Logo">
 </p>
 
