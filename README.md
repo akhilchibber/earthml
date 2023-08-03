@@ -1,4 +1,4 @@
-# EarthML - Geodata to Geohash
+# EarthML - Geospatial Data Analysis Made Easy
 <p align="center">
   <img src="https://github.com/akhilchibber/earthml/blob/main/earthml_logo.png?raw=true" width="300" alt="earthml Logo">
 </p>
