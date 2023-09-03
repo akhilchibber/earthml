@@ -3,17 +3,18 @@
   <img src="https://github.com/akhilchibber/earthml/blob/main/earthml_logo.png?raw=true" width="300" alt="earthml Logo">
 </p>
 
-EarthML is a Python library designed to convert geospatial datasets into a single geohash representing the smallest possible area that covers the entire dataset. It supports various formats, including `.shp`, `.geojson`, `.tif`, `.las`, `.png`, `.jpg`, and `.jpeg`.
+EarthML is an advanced Python library engineered to streamline the analysis of geospatial and remote sensing data. Developed with a vision to encompass a wide array of functionalities, EarthML currently supports geospatial data conversion into geohashes, and pre-processing of Synthetic Aperture Radar (SAR) datasets from Sentinel-1, ALOSPALSAR, and TerraSAR-X. EarthML is committed to expanding its functionalities to include other remote sensing sensors such as LiDAR, Hyperspectral, and Multispectral Optical in the near future.
 
 ## Goal
 
-The goal of EarthML is to simplify the process of converting geospatial data into a geohash. It can handle different file formats and automatically calculate the geohash that fits the entire study area.
+The primary objective of EarthML is to simplify and expedite the geospatial and SAR data analysis process. It is designed to handle diverse file formats, automatically compute geohashes that encapsulate the entire study area, and conduct essential pre-processing steps on SAR data.
 
 ## Features
 
-- **Support for Multiple Formats**: Easily convert geospatial data in Shapefile, GeoJSON, GeoTIFF, LAS, and image formats.
-- **Geohash Calculation**: Automatically calculates the geohash that best represents the geographical bounds of the dataset.
-- **Easy to Use**: Intuitive functions for loading and processing geospatial data.
+- **Support for Multiple Formats**: Facilitates the conversion of geospatial data in various formats such as Shapefile, GeoJSON, GeoTIFF, LAS, and images.
+- **Geohash Calculation**: Automatically computes the geohash that optimally represents the geographical bounds of the dataset.
+- **SAR Data Pre-Processing**: Offers functionalities for crucial pre-processing steps on SAR datasets from Sentinel-1, ALOSPALSAR, and TerraSAR-X. This includes radiometric calibration, speckle filtering, and geometric correction.
+- **Future-Ready**: EarthML is actively developed with a roadmap that includes the integration of other remote sensing sensors such as LiDAR, Hyperspectral, and Multispectral Optical.
 
 ## Installation
 
@@ -21,19 +22,6 @@ To install EarthML, you can use pip:
 
 ```
 pip install earthml
-```
-
-
-
-
-
-# Usage
-
-```
-from earthml import geodata_to_geohash
-
-# Calculate geohash
-geohash = geodata_to_geohash.find_smallest_geohash('file1.shp')
 ```
 
 
@@ -56,4 +44,6 @@ Akhil Chhibber
 
 
 # Note
-This README provides a brief overview of the library, explains its goal, highlights key features, and provides simple installation and usage instructions.
+This README provides a concise overview of the library, elucidates its objectives, highlights key features, and outlines simple installation instructions.
+
+EarthML is under active development. We welcome contributions and suggestions for new features and improvements.
