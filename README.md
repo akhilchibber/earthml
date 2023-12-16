@@ -49,18 +49,17 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 
 
-## Contact
-
-Your Name - Akhil Chhibber
-
-LinkedIn: https://www.linkedin.com/in/akhilchhibber/
-
-
-
-
-
-
 # Note
 This README provides a concise overview of the library, elucidates its objectives, highlights key features, and outlines simple installation instructions.
 
 EarthML is under active development. We welcome contributions and suggestions for new features and improvements.
+
+
+
+
+
+## Contact
+
+Author - Akhil Chhibber
+
+LinkedIn: https://www.linkedin.com/in/akhilchhibber/
