@@ -60,6 +60,6 @@ EarthML is under active development. We welcome contributions and suggestions fo
 
 ## Contact
 
-Author - Akhil Chhibber
+Author: Akhil Chhibber
 
 LinkedIn: https://www.linkedin.com/in/akhilchhibber/
