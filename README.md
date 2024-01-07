@@ -28,6 +28,15 @@ pip install earthml
 
 
 
+# Note
+This README provides a concise overview of the library, elucidates its objectives, highlights key features, and outlines simple installation instructions.
+
+EarthML is under active development. We welcome contributions and suggestions for new features and improvements.
+
+
+
+
+
 ## Contributing
 
 We welcome contributions to enhance the functionality and efficiency of this script. Feel free to fork, modify, and make pull requests to this repository. To contribute:
@@ -44,15 +53,6 @@ We welcome contributions to enhance the functionality and efficiency of this scr
 
 # License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-
-
-
-
-# Note
-This README provides a concise overview of the library, elucidates its objectives, highlights key features, and outlines simple installation instructions.
-
-EarthML is under active development. We welcome contributions and suggestions for new features and improvements.
 
 
 
