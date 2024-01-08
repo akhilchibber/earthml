@@ -24,10 +24,6 @@ To install EarthML, you can use pip:
 pip install earthml
 ```
 
-
-
-
-
 ## Contributing
 
 We welcome contributions to enhance the functionality and efficiency of this script. Feel free to fork, modify, and make pull requests to this repository. To contribute:
@@ -38,19 +34,13 @@ We welcome contributions to enhance the functionality and efficiency of this scr
 4. Push to the Branch (`git push origin feature/AmazingFeature`).
 5. Open a Pull Request against the `main` branch.
 
-
-
-
-
 # License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-
-
-
 
 ## Contact
 
 Author: Akhil Chhibber
 
 LinkedIn: https://www.linkedin.com/in/akhilchhibber/
+
+PyPI: https://pypi.org/project/earthml/
