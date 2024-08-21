@@ -44,3 +44,5 @@ Author: Akhil Chhibber
 LinkedIn: https://www.linkedin.com/in/akhilchhibber/
 
 PyPI: https://pypi.org/project/earthml/
+
+Medium Blogs: https://medium.com/@akhil.chibber
